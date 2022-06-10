@@ -1,0 +1,7 @@
+*
+!.gitignore
+!.tmux.conf
+!.vimrc
+!.config/fish/config.fish
+!.config/fish/config.fish_variables
+
