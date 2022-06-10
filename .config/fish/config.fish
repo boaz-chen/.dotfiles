@@ -2,6 +2,7 @@ export PATH="$HOME/.cargo/bin:$HOME/bin:$PATH"
 
 abbr -a dotfiles "git --git-dir=$HOME/.dotfiles --work-tree=$HOME"
 abbr -a ls "exa -la --icons --color-scale"
+abbr -a rt "cd ~/dev/WDATP/TVM.Client"
 
 # Fish git prompt
 set __fish_git_prompt_showuntrackedfiles 'yes'
